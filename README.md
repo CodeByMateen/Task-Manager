@@ -4,6 +4,8 @@
 -- to test API's, sample routes are given below
 -- to test jest, use command "npx jest" or you can also use "npm test"
 
+<h3><u>Using type: module for this project</u></h3>
+
 # If you don't have package.json file, follow the installation commands below
 
 # To create project:
