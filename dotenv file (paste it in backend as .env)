@@ -1,0 +1,4 @@
+PORT=3000
+JWT_SECRET_KEY=abcdefghijklmnopqrstuvwxyz0123456789
+JWT_EXPIRE=1h
+MONGO_URI=mongodb+srv://mateen-shahzad:btiKwUrn9HJCUftb7fdhtaskmanager@task-manager-db.mltkh.mongodb.net/?retryWrites=true&w=majority&appName=task-manager-db
