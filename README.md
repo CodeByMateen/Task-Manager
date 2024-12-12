@@ -14,9 +14,7 @@ npm init -y (to automatically setup project by default)
 npm i express dotenv bcrypt mongoose cors validator jsonwebtoken
 
 # To install devDependency
-npm i -D nodemon
-npm i -D jest supertest
-npm i -D babel-jest @babel/preset-env
+npm i -D nodemon jest supertest babel-jest @babel/preset-env
 
 # Testing Routes for User
 (POST)
