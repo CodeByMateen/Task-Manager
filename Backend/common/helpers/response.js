@@ -1,4 +1,4 @@
-import { HTTP_STATUS_CODE } from "../../utils/http-status-codes.js"; 
+import { HTTP_STATUS_CODE } from "../../utils/http-status-codes.js";
 
 export function resSuccess(message, status, statusCode, data) {
   return {
